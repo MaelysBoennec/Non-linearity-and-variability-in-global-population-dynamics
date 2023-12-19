@@ -2,7 +2,6 @@
 ### Non-linearity and temporal variability are overlooked components of 
 ### global population dynamics
 ### 12/2023
-### Maelys Boennec (maelys.boennec@umontpellier.fr)
 
 #### Part 2 - Analyses of population trajectories and variability
 
