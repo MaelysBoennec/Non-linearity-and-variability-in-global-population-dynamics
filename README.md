@@ -1,6 +1,6 @@
 # Non-linearity-and-temporal-variability-in-population-dynamics
 
-Code and data for the following paper: 'Non-linearity and temporal variability are overlooked components of global population dynamics' (Maelys Boennec, Vincent Devictor, Vasilis Dakos; in prep.). This repository is maintained by Maelys Boennec. If you have any questions, please contact maelys.boennec@umontpellier.fr.
+Code and data for the following paper: 'Non-linearity and temporal variability are overlooked components of global population dynamics'.
 
 # Data
 
